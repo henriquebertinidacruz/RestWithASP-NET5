@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RestWithASP-NET5\\RestWithASP-NET5\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E457110-C4BA-4CD4-8C8B-88705A662131}|RestWithASPNET\\RestWithASPNET.csproj|c:\\restwithasp-net5\\restwithasp-net5\\restwithaspnet\\restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E457110-C4BA-4CD4-8C8B-88705A662131}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5\\RestWithASP-NET5\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Program.cs",
+              "ToolTip": "C:\\RestWithASP-NET5\\RestWithASP-NET5\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeToolTip": "RestWithASPNET\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:00:33.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
